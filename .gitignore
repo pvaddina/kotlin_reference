@@ -1,0 +1,13 @@
+*.swp
+*.*~
+*.exe
+*.out
+*.obj
+*.ORIG
+*.orig
+*.user
+
+build/
+ninja/
+vs/
+.vscode/
